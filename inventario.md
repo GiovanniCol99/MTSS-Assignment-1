@@ -6,3 +6,4 @@ Elettronica Padovana
 ## componenti 
 ## periferiche
 tastiere 
+mouse #meglio a mano per metterlo nel posto giusto
